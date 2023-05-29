@@ -1,0 +1,23 @@
+.banner {
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+    background-image: 
+    url("https://previews.123rf.com/images/yelenayemchuk/yelenayemchuk2207/yelenayemchuk220700045/189340911-comida-sana-fondo-de-alimentaci%C3%B3n-saludable-fruta-verdura-baya-alimentaci%C3%B3n-vegetariana.jpg");
+}
+.banner-container {
+    text-align: center;
+    padding: 15% 0;
+}
+.banner h1 {
+    margin: 0;
+    color: white;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0,2);
+    font-size: 62px;
+}
+.banner p {
+    font-size: 30px;
+    color: white;
+    opacity: 0,7;
+}

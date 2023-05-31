@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Patatas",
+        "kilo": "1 Kilo",
+        "Price": 1,
+        "img": "https://www.frutas-hortalizas.com/img/fruites_verdures/presentacio/59.jpg"
+    },
+
+    {
+        "id": 2,
+        "name": "Cebolla",
+        "kilo": "1 Kilo",
+        "Price": 2,
+        "img": "https://www.quironsalud.es/es/comunicacion/notas-prensa/cebolla.ficheros/2440952-cebolla.jpg?width=400&height=342&aspectRatio=true"
+    },
+
+    {
+        "id": 3,
+        "name": "Zanahoria",
+        "kilo": "1 Kilo",
+        "Price": 2,
+        "img": "https://soycomocomo.es/media/2019/03/zanahorias.jpg"
+    },
+
+    {
+        "id": 4,
+        "name": "Pimiento",
+        "kilo": "1 Kilo",
+        "Price": 3,
+        "img": "https://ecosdelatierra.es/wp-content/uploads/2021/08/Pimiento-Rojo-Ecologico-California.jpg"
+    }
+
+]

@@ -1,0 +1,21 @@
+.product-card-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 50%;
+    text-align: center;
+
+}
+
+.card {
+    margin: 50px;
+}
+
+.card button {
+    border: none;
+    outline: 0;
+    padding: 10px;
+    color: white;
+    background-color: green;
+    text-align: center;
+}
